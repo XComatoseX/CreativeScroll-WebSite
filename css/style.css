@@ -1,0 +1,31 @@
+/* Base Settings */
+html{
+  box-sizing: border-box;
+}
+*,
+*::after,
+*::before{
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+button{
+  padding: 0;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5,h6, p{
+  margin: 0;
+}
+blockquote{
+  margin: 0;
+}
+/* End Base Settings */
