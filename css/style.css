@@ -27,6 +27,10 @@ html{
 h1, h2, h3, h4, h5, h6{
   font-family: outfit-c;
 }
+/* will-change */
+.content, .hero__img, .main__title, .gallery__left, .gallery > *{
+  will-change: transform;
+}
 body{
   background-image: url(../images/bg.jpg);
   background-size: 50px;
